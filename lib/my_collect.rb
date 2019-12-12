@@ -15,10 +15,10 @@ def my_collect(array)
 end
 
 
-languages = ['ruby, javascript', 'python', 'objective-c']
+#   languages = ['ruby, javascript', 'python', 'objective-c']
 
-my_collect(languages) do |language|
-  language.upcase
+#        my_collect(languages) do |language|
+  #     language.upcase
   
-end
+#end
 #binding.pry
